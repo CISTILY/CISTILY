@@ -45,10 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cistily&show_icons=true&theme=tokyonight" alt="github stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cistily&theme=tokyonight" alt="streak stats" />
-</p>
-
 <hr style="border:1px solid #ccc;"/>
 
 <p align="center">
